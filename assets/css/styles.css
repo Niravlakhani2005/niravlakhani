@@ -291,7 +291,7 @@ img {
   z-index: var(--z-back);
 }
 .skills__html {
-  width: 95%;
+  width: 85%;
 }
 .skills__css {
   width: 85%;
@@ -300,6 +300,9 @@ img {
   width: 65%;
 }
 .skills__ux {
+  width: 95%;
+}
+.skills__wordpress {
   width: 85%;
 }
 .skills__img {
